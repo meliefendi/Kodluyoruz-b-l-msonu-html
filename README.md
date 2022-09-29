@@ -1,0 +1,1 @@
+Burada bir kaç sayfa olduğu için görüntü yükleyemedim. Bakmak isterseniz projeyi clone layın veya kopyalama yöntemiyle çekebilirsiniz.
